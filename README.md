@@ -17,4 +17,6 @@ Enjoy!
 Download is in the releases.
 
 Known Bugs:  
-1. None atm, we'll see how long this lasts.
+1. 1778's shooter likes to break, intake and it fixes itself
+2. Driving is backward for 581 in driver station mode
+3. 6036 is inaccurate from the sides
