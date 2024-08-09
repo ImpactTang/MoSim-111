@@ -1,4 +1,4 @@
-# MoSim 3 Cities Pack
+# MoSim 3 Regions Pack
 
 This is a mod for the 2024 FRC game Crescendo created by Mo from team 4089.  
 
